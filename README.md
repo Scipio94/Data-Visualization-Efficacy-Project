@@ -1,4 +1,6 @@
 # Data Visualization Efficacy Project
+- Access Slide Deck [HERE](https://docs.google.com/presentation/d/19SzZgRGR765AFmKSRWF3aaS7tEDnViL9UXXHOpZhZE4/edit?usp=sharing)
+- Access Full Report [HERE](https://docs.google.com/document/d/1zTcC6dTAGMdO63D_Q3wfGi5KFZDdEQuSMK74dwCwSnY/edit?usp=sharing)
 
 ## Abstract 
 

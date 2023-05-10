@@ -20,25 +20,29 @@ The analysis will be guided by the following questions:
 
 ## ERD
 
-![Data Visualization Views ERD](https://github.com/Scipio94/Data-Visualization-Efficacy-Project/assets/112409778/d480e2a9-7192-4941-8002-23fffbc8ee28)
+![Data Visualization Views ERD](https://github.com/Scipio94/Data-Visualization-Efficacy-Project/assets/112409778/484cef24-3c41-430e-b727-3133c70250d9)
+
 
 ## Analysis
 
 1. Was there an increase in the number of views of specialized tableau workbooks created during the 2022-2023 school year compared to the number of views of data visualizations created during 2021-2022 school year?
 
-![School Year Viz Dashboard Views](https://github.com/Scipio94/Data-Visualization-Efficacy-Project/assets/112409778/77a87a01-a032-4c04-8e8e-8431d6a4f55f)
+![School Year Viz Dashboard Views](https://github.com/Scipio94/Data-Visualization-Efficacy-Project/assets/112409778/b9864c56-90ef-4bf7-ae81-02a5069ad099)
+
 
 Yes, there was an increase in the number of views of the specialized tableau workbooks compared to the number of views of the data visualizations from the 2021-2022 school year to the 2022-2023 school year. During the 2021-2022 school year there were a total of 588 views. Comparatively there were 1,062 views during the 2022-2023 school year, a 81% increase in views year over year from the 2021-2022 school year to the 2022-2023 school year. Additionally, interactions with data visualizations during the 2021-2022 school year increased by an average of 2 views, 311%, month over month. While interactions with the specialized tableau workbooks during the 2022-2023 school year increased by an average of 19 views, 244%, month over month. 
 
 2. What was the most popular data specialized tableau workbook during the 2022-2023 school year?
 
-![MoM Metrics Dashboard](https://github.com/Scipio94/Data-Visualization-Efficacy-Project/assets/112409778/8b79560d-af05-47c4-a5b5-edd1d5abcbe9)
+![MoM Metrics Dashboard](https://github.com/Scipio94/Data-Visualization-Efficacy-Project/assets/112409778/8e9f7e0a-c5a6-4257-abd6-e5997fe02daa)
+
 
 The Principal Viz was the most viewed specialized tableau workbook, accounting for 322 (30%) of views, during the 2022-2023 school year. This is most likely due to the Principal Viz being the most frequently refreshed data visualization with updates being made weekly and containing key data insights, e.g. attendance, incidents, academic data, and more, that inform academic performance and operational performance. 
 
 3. What was the overall trend in the staff’s interaction with data visualizations during the 2022-2023 school year?
 
-![MoM_Trend](https://github.com/Scipio94/Data-Visualization-Efficacy-Project/assets/112409778/66d7b368-b2f6-415e-a0a9-d684e66c2299)
+![MoM_Trend](https://github.com/Scipio94/Data-Visualization-Efficacy-Project/assets/112409778/0267a571-b451-4439-901d-2e1dbd099f70)
+
 
 There has been a positive trend in the tableau workbook views during the 2022-2023 school year. As of May 5th, 2023 there have been 1,062 total tableau workbook views. Additionally, tableau workbook views increase by an average of 19 views, 244%, month over month. 
 
